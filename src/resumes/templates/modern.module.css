@@ -1,0 +1,21 @@
+.body {
+  background: #e1ffee;
+  color: #7fbcd2;
+}
+
+.foralign {
+  text-align: justify;
+}
+
+#col1 {
+  background: #7fbcd2;
+  color: #e1ffee;
+}
+
+h2{
+  font-variant-caps: all-small-caps;
+}
+
+.font1{
+  font-family: 'Times New Roman', Times, serif;
+}

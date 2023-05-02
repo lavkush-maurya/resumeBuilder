@@ -1,0 +1,15 @@
+.body {
+  background: #F7A4A4;
+  font-size: 15px; 
+}
+
+.foralign {
+  text-align:justify; 
+}
+
+.btn-group-lg>.btn, .btn-lg {
+  --bs-btn-padding-y: 0;
+  --bs-btn-padding-x: 0;
+  --bs-btn-font-size: 0;
+  --bs-btn-border-radius: 0;
+}

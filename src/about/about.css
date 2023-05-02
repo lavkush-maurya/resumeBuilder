@@ -1,0 +1,17 @@
+.black {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.black {
+    background-color: black;
+    opacity: 0.5;
+    border-radius: 15px 15px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.container-fluid {
+    padding: 2.5%;
+}
